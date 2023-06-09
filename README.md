@@ -28,6 +28,8 @@ install all the other dependencies using pacman like this:
 $ sudo pacman -S <pacakge_name>
 ```
 
+use nitrogen to set up your background (mine is included here)
+
 extarct all the directories into `~/.config~`
 
 reboot and you are done!
