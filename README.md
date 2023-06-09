@@ -4,12 +4,12 @@ An i3 rice with a night feel for Arch Linux
 
 # Dependencies:
 ### Mains
-i3
-polybar
-nitrogen
-picom
-alacritty
-ibhagwan
+i3,
+polybar,
+nitrogen,
+picom,
+alacritty,
+ibhagwan,
 
 ## Extras
 neofetch
