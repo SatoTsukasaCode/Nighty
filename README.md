@@ -1,6 +1,6 @@
 # Nighty
 An i3 rice with a night feel for Arch Linux
-
+[!screenshot](https://github.com/SatoTsukasaCode/Nighty/blob/main/9w9.jpg)
 
 # Dependencies:
 ### Mains
